@@ -1,5 +1,5 @@
 # ML Model__Tuner 
-#### --- by Avinandan Pal
+#### ---- by Avinandan Pal
 
 This Application is useful to find out the BEST Score of a Selected Model on a Particular Dataset. This can be achieved by tunning certain parameters specific to the Model. You can also copy your desired combination of parameters and paste them in your code.
 
